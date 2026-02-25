@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+.env
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/*.log
+
+# PDF corpus (large files)
+data/pdfs/*.pdf
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Coverage
+.coverage
+htmlcov/

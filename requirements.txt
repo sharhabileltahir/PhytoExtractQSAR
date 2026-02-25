@@ -1,0 +1,12 @@
+﻿pandas>=2.0
+openpyxl>=3.1
+requests>=2.31
+biopython>=1.81
+pubchempy>=1.0.4
+rdkit-pypi>=2023.9
+pdfplumber>=0.10
+beautifulsoup4>=4.12
+lxml>=4.9
+tqdm>=4.66
+numpy>=1.24
+scipy>=1.11

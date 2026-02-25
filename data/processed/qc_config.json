@@ -1,0 +1,48 @@
+{
+  "valid_ranges": {
+    "Temperature (\u00b0C)": [
+      -20,
+      300
+    ],
+    "Time (min)": [
+      0.1,
+      10080
+    ],
+    "Pressure (MPa)": [
+      0.1,
+      100
+    ],
+    "Power (W)": [
+      1,
+      10000
+    ],
+    "Frequency (kHz)": [
+      1,
+      200
+    ],
+    "Yield (%)": [
+      0.001,
+      100
+    ],
+    "Purity (%)": [
+      0.1,
+      100
+    ],
+    "TPC (mg GAE/g)": [
+      0.01,
+      1000
+    ],
+    "TFC (mg QE/g)": [
+      0.01,
+      1000
+    ],
+    "Antioxidant Activity (IC50, \u00b5g/mL)": [
+      0.001,
+      10000
+    ],
+    "pH": [
+      0,
+      14
+    ]
+  }
+}
